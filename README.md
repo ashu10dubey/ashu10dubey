@@ -22,8 +22,3 @@
 [![](https://visitcount.itsvg.in/api?id=ashu10dubey&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![](https://visitcount.itsvg.in/api?id=ashu10dubey&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ashu10dubey&label=Profile%20Views&color=1&icon=1&pretty=false" />
-</a>
