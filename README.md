@@ -3,6 +3,7 @@
 
 [![An image of @ashu10dubey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashu10dubey)](https://holopin.io/@ashu10dubey)
 ## 🌐 Socials:
+[![Microsoft](https://img.shields.io/badge/Microsoft-%23B92B27.svg?logo=Microsoft&logoColor=Blue)](https://learn.microsoft.com/en-us/users/ashutoshdubey-8842/credentials/614e7cdaaa0987e9?wt.mc_id=studentamb_331542)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.linkedin.com/in/ashutoshdubey10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutoshdubey10) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Ashutosh-Dubey-768) 
 
 # 💻 Tech Stack:
