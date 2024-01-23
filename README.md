@@ -1,5 +1,5 @@
 # 💫 About Me:
-✰ I'm an undergraduate student pursuing a degree in CSE 2025, with a passion for AI and technology.<br>✰ I'm currently learning Data Science.<br>
+✰ I'm an undergraduate student pursuing a degree in CSE 2025, with a passion for AI and technology.<br>✰ I'm currently learning Cloud and Data Science.<br>
 [![An image of @ashu10dubey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashu10dubey)](https://holopin.io/@ashu10dubey)
 ## 🌐 Socials:
 [![Microsoft](https://img.shields.io/badge/Microsoft-%23B92B27.svg?logo=Microsoft&logoColor=Blue)](https://learn.microsoft.com/en-us/users/ashutoshdubey-8842/credentials/614e7cdaaa0987e9?wt.mc_id=studentamb_331542)
