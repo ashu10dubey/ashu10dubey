@@ -1,5 +1,5 @@
 ### Hi there, I'm Ashutosh Dubey! 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Undergraduate+in+Computer+Science;at+VIT+Chennai+and+passionate+about;Software+Development,Cloud+Technology;+Data+Science+and+Open-Source.;Always+Learning!✌️)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Undergraduate+in+Computer+Science;at+VIT+Chennai,passionate+about;Software+Development,Cloud+Tech,;+Data+Science+and+Open-Source.;Always+Learning!✌️)
 ### 📄 My Resume
 [![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://drive.google.com/file/d/1TTSwse8XdbpPajgrOHbqvtdb0lTfili0/view?usp=sharing)
 ### Hacktoberfest 2023
@@ -21,7 +21,7 @@
 ## 🌐 Connect to me:
 [![View my website](https://img.shields.io/badge/View_my_website-%230077B5.svg?style=plastic)](https://ashutoshdubey.co/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ashutoshdubey9794@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutoshdubey10) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Ashutosh-Dubey-768) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshdubey10)
 [![Microsoft](https://img.shields.io/badge/Microsoft-%23B92B27.svg?logo=Microsoft&logoColor=Blue)](https://learn.microsoft.com/en-us/users/ashutoshdubey-8842/credentials/614e7cdaaa0987e9?wt.mc_id=studentamb_331542)
 
 ### 🔝 Top Contributed Repo
