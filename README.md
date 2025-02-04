@@ -19,7 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu10dubey&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🌐 Connect to me:
-[![View my website](https://img.shields.io/badge/View_my_website-%230077B5.svg?style=plastic)](https://ashutoshdubey.co/)
+[![View my website](https://img.shields.io/badge/View_my_website-%230077B5.svg?style=plastic)](https://oneashutoshdubey.co/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:ashutoshdubey9794@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshdubey10)
 [![Microsoft](https://img.shields.io/badge/Microsoft-%23B92B27.svg?logo=Microsoft&logoColor=Blue)](https://learn.microsoft.com/en-us/users/ashutoshdubey-8842/credentials/614e7cdaaa0987e9?wt.mc_id=studentamb_331542)
