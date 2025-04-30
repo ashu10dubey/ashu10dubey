@@ -1,7 +1,7 @@
 ### Hi there, I'm Ashutosh Dubey! 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Undergraduate+in+Computer+Science;at+VIT+Chennai,passionate+about;Software+Development,Cloud+Tech,;+Data+Science+and+Open-Source.;Always+Learning!✌️)
 ### 📄 My Resume
-[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://drive.google.com/file/d/1-yPz2xMboX8vMIxHANcgpEU6E1nc4Un8/view?usp=sharingv)
+[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://drive.google.com/file/d/1MsMf32K5xe1rlVPI4NreWx9c3ICIWKv6/view?usp=drive_link)
 ### Hacktoberfest 2023
 [![An image of @ashu10dubey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashu10dubey)](https://holopin.io/@ashu10dubey)
 
